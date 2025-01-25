@@ -1,1 +1,1 @@
-# hrishtyKeshri-Travel_And_Tourism_Management_System
+# ShrishtyKeshri-Travel_And_Tourism_Management_System
