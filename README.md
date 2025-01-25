@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/92d4663e-f2a8-42a8-baf2-9eaf5fa58d52)
 
-# 🧳Travel Management System
+# 🧳Travel And Tourism Management System
 
 ## 📋 Overview  
 The **Travel Management System** is a Java-based application designed to streamline travel planning and management. It enables users to book hotels, create travel packages, manage customers, view destinations, and handle payments, offering a seamless experience for travelers and administrators.
